@@ -22,27 +22,25 @@
     border: 1px solid black;
   }
 
-  &.google-sign-in{
+  &.google-sign-in {
     background-color: #4285f4;
     color: white;
 
-    &:hover{
+    &:hover {
       background-color: #357ae8;
-      border:none;
+      border: none;
     }
   }
 
-  &.inverted{
+  &.inverted {
     background-color: white;
     color: black;
     border: 1px solid black;
 
-    &:hover{
+    &:hover {
       background-color: black;
       color: white;
       border: none;
     }
   }
 }
-
-
